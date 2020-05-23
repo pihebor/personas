@@ -8,6 +8,7 @@
     <string name="apellido">Apellido</string>
     <string name="guardar">Guardar</string>
     <string name="limpiar">Limpiar</string>
+    <string name="numero">No.</string>
 
     <string-array name="opciones">
         <item>@string/opcion_crear</item>
@@ -17,6 +18,6 @@
     <string name="error_cedula">Por favor digite la Cedula</string>
     <string name="error_nombre">Por favor digite el Nombre</string>
     <string name="error_apellido">Por favor digite el Apellido</string>
-    <string name="numero">No.</string>
+    <string name="mensaje_guardado">La Informacion se Guardo Correctamente</string>
 
 </resources>
